@@ -14,7 +14,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
-##The Home Page 
+The Home Page 
 The stories in your mobile social media application will appear blue before being viewed and gray after they are viewed. This color change will help users distinguish between seen and unseen stories easily.
 ![Home Page](Screenshot_1729422799.png)
 ## ADD A COMMENT
