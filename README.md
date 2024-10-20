@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-![Home Page](Screenshot_1729422799)
+![Home Page](Screenshot_1729422799.png)
 ![Story View](assets/images/story_view.png)
