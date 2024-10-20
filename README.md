@@ -23,3 +23,5 @@ The stories in your mobile social media application will appear blue before bein
 ![Side Screen](Screenshot_1729422818.png)
 ## STORIES
 ![Stories](Screenshot_1729422864.png)
+## ExplorePage
+![ExplorePage](Screenshot_1729422826.png)
